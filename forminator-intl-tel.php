@@ -2,7 +2,7 @@
 /**
  * Plugin Name: [Forminator] -Forminator intl tel input.
  * Description: [Forminator] -Forminator intl tel input.
- * Task: SLS-2731
+ * Task: FOR-1927
  * Author: Thobk @ WPMUDEV
  * Author URI: https://premium.wpmudev.org
  * License: GPLv2 or later
