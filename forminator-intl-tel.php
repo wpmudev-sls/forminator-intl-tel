@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 add_action( 'plugins_loaded', 'wpmudev_forminator_intl_tel_func', 100 );
 
-register_activation_hook( __FILE__, '__return_true ' );
+register_activation_hook( __FILE__, '__return_true' );
 register_deactivation_hook( __FILE__, '__return_true' );
 
 function wpmudev_forminator_intl_tel_func() {
